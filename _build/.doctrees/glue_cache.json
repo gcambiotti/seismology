@@ -1,0 +1,388 @@
+{
+  "files/C0_Harmonic": {
+    "fig_relative_test_2": {
+      "data": {
+        "image/png": null,
+        "text/plain": "<Figure size 1000x600 with 3 Axes>"
+      },
+      "metadata": {
+        "scrapbook": {
+          "mime_prefix": "",
+          "name": "fig_relative_test_2"
+        },
+        "filenames": {
+          "image/png": "/Users/gabriele/lecture/seismology_local/_build/jupyter_execute/files/C0_Harmonic_68_0.png"
+        }
+      },
+      "output_type": "display_data"
+    },
+    "fig_driven_building": {
+      "data": {
+        "image/png": null,
+        "text/plain": "<Figure size 1000x800 with 8 Axes>"
+      },
+      "metadata": {
+        "scrapbook": {
+          "mime_prefix": "",
+          "name": "fig_driven_building"
+        },
+        "filenames": {
+          "image/png": "/Users/gabriele/lecture/seismology_local/_build/jupyter_execute/files/C0_Harmonic_24_0.png"
+        }
+      },
+      "output_type": "display_data"
+    },
+    "fig_full": {
+      "data": {
+        "image/png": null,
+        "text/plain": "<Figure size 1000x300 with 1 Axes>"
+      },
+      "metadata": {
+        "scrapbook": {
+          "mime_prefix": "",
+          "name": "fig_full"
+        },
+        "filenames": {
+          "image/png": "/Users/gabriele/lecture/seismology_local/_build/jupyter_execute/files/C0_Harmonic_46_0.png"
+        }
+      },
+      "output_type": "display_data"
+    },
+    "fig_dislocation": {
+      "data": {
+        "image/png": null,
+        "text/plain": "<Figure size 1000x200 with 1 Axes>"
+      },
+      "metadata": {
+        "scrapbook": {
+          "mime_prefix": "",
+          "name": "fig_dislocation"
+        },
+        "filenames": {
+          "image/png": "/Users/gabriele/lecture/seismology_local/_build/jupyter_execute/files/C0_Harmonic_74_0.png"
+        }
+      },
+      "output_type": "display_data"
+    },
+    "fig_response": {
+      "data": {
+        "image/png": null,
+        "text/plain": "<Figure size 1000x400 with 2 Axes>"
+      },
+      "metadata": {
+        "scrapbook": {
+          "mime_prefix": "",
+          "name": "fig_response"
+        },
+        "filenames": {
+          "image/png": "/Users/gabriele/lecture/seismology_local/_build/jupyter_execute/files/C0_Harmonic_37_0.png"
+        }
+      },
+      "output_type": "display_data"
+    },
+    "fig_test": {
+      "data": {
+        "image/png": null,
+        "text/plain": "<Figure size 1000x600 with 3 Axes>"
+      },
+      "metadata": {
+        "scrapbook": {
+          "mime_prefix": "",
+          "name": "fig_test"
+        },
+        "filenames": {
+          "image/png": "/Users/gabriele/lecture/seismology_local/_build/jupyter_execute/files/C0_Harmonic_54_0.png"
+        }
+      },
+      "output_type": "display_data"
+    },
+    "fig_driven_seismometer": {
+      "data": {
+        "image/png": null,
+        "text/plain": "<Figure size 1000x800 with 8 Axes>"
+      },
+      "metadata": {
+        "scrapbook": {
+          "mime_prefix": "",
+          "name": "fig_driven_seismometer"
+        },
+        "filenames": {
+          "image/png": "/Users/gabriele/lecture/seismology_local/_build/jupyter_execute/files/C0_Harmonic_30_0.png"
+        }
+      },
+      "output_type": "display_data"
+    },
+    "fig_sinusoidal": {
+      "data": {
+        "image/png": null,
+        "text/plain": "<Figure size 1000x300 with 1 Axes>"
+      },
+      "metadata": {
+        "scrapbook": {
+          "mime_prefix": "",
+          "name": "fig_sinusoidal"
+        },
+        "filenames": {
+          "image/png": "/Users/gabriele/lecture/seismology_local/_build/jupyter_execute/files/C0_Harmonic_15_0.png"
+        }
+      },
+      "output_type": "display_data"
+    },
+    "fig_transient": {
+      "data": {
+        "image/png": null,
+        "text/plain": "<Figure size 1000x800 with 3 Axes>"
+      },
+      "metadata": {
+        "scrapbook": {
+          "mime_prefix": "",
+          "name": "fig_transient"
+        },
+        "filenames": {
+          "image/png": "/Users/gabriele/lecture/seismology_local/_build/jupyter_execute/files/C0_Harmonic_6_0.png"
+        }
+      },
+      "output_type": "display_data"
+    },
+    "fig_relative_test": {
+      "data": {
+        "image/png": null,
+        "text/plain": "<Figure size 1000x600 with 3 Axes>"
+      },
+      "metadata": {
+        "scrapbook": {
+          "mime_prefix": "",
+          "name": "fig_relative_test"
+        },
+        "filenames": {
+          "image/png": "/Users/gabriele/lecture/seismology_local/_build/jupyter_execute/files/C0_Harmonic_62_0.png"
+        }
+      },
+      "output_type": "display_data"
+    }
+  },
+  "files/L0_Seismic_catalogs_and_networks": {
+    "station": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "station",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "'IV.MRLC'"
+      }
+    },
+    "numevents": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "numevents",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "9"
+      }
+    },
+    "nummagnitudes": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "nummagnitudes",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "8"
+      }
+    },
+    "numorigins": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "numorigins",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "8"
+      }
+    },
+    "directory": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "directory",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "'Amatrice-Norcia-Visso'"
+      }
+    }
+  },
+  "files/L1_Waveforms": {
+    "sampling_rate": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "sampling_rate",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "100"
+      }
+    },
+    "numtraces": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "numtraces",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "16"
+      }
+    },
+    "endtime": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "endtime",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "2016-08-24T01:19:21.790000Z"
+      }
+    },
+    "fig_stream": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "fig_stream",
+          "mime_prefix": ""
+        },
+        "filenames": {
+          "image/png": "/Users/gabriele/lecture/seismology_local/_build/jupyter_execute/files/L1_Waveforms_46_0.png"
+        }
+      },
+      "data": {
+        "text/plain": "<Figure size 1000x1350 with 6 Axes>",
+        "image/png": null
+      }
+    },
+    "fig_gaps_aftreshocks": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "fig_gaps_aftreshocks",
+          "mime_prefix": "application/papermill.record/"
+        },
+        "filenames": {
+          "image/png": "/Users/gabriele/lecture/seismology_local/_build/jupyter_execute/files/L1_Waveforms_60_0.png"
+        }
+      },
+      "data": {
+        "application/papermill.record/text/plain": "<Figure size 1000x1350 with 6 Axes>",
+        "application/papermill.record/image/png": null
+      }
+    },
+    "delta": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "delta",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "0.01"
+      }
+    },
+    "distance": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "distance",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "285.9"
+      }
+    },
+    "starttime": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "starttime",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "2016-08-24T01:06:30.430000Z"
+      }
+    },
+    "fig_aftershocks": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "fig_aftershocks",
+          "mime_prefix": "application/papermill.record/"
+        },
+        "filenames": {
+          "image/png": "/Users/gabriele/lecture/seismology_local/_build/jupyter_execute/files/L1_Waveforms_55_0.png"
+        }
+      },
+      "data": {
+        "application/papermill.record/text/plain": "<Figure size 800x800 with 1 Axes>",
+        "application/papermill.record/image/png": null
+      }
+    }
+  },
+  "files/L2_Local_magnitude": {
+    "std": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "std",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "0.3"
+      }
+    },
+    "mag": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "mag",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "6.0"
+      }
+    }
+  },
+  "files/L3_Earthquake_localization": {
+    "ref_code": {
+      "output_type": "display_data",
+      "metadata": {
+        "scrapbook": {
+          "name": "ref_code",
+          "mime_prefix": ""
+        }
+      },
+      "data": {
+        "text/plain": "'IV.SMA1..EHZ'"
+      }
+    }
+  }
+}
